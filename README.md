@@ -1,5 +1,5 @@
 # UOS_Project_RegressionII
-RegressionII Project with Python (20-2)
+서울시립대학교 회귀분석II 학기말 프로젝트 with Python (20-2)
 
 
 ## 💡 Project
